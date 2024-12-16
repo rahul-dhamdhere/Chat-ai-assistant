@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed on your local machine:
 - Flask-SQLAlchemy (if using a database)
 - Ollama (for the Mistral model)
 
-### Download Mistral 7B Locally
+## Download Mistral 7B Locally
 
 To use the Mistral 7B model, you need to download it locally. Follow these steps:
 
@@ -31,7 +31,7 @@ To use the Mistral 7B model, you need to download it locally. Follow these steps
 2. **Pull the Mistral Model**:
    ```bash
    ollama pull mistral
-## Download Mistral Model
+#### Download Mistral Model
 
 ## Installation
 **Clone the Repository:**
