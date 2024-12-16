@@ -91,8 +91,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Ollama for providing the Mistral model.
 Flask for the web framework.
 SQLite for lightweight database storage.
-Contact
-For any questions or feedback, feel free to reach out:
+
+## Contact
+### For any questions or feedback, feel free to reach out:
 
 Email: rahulrdhamdhere@gmail.com
 GitHub: rahul-dhamdhere
