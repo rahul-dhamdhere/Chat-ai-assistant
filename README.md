@@ -80,7 +80,7 @@ Type your message in the input box and press "Send".
 The AI will respond based on your input.
 ## Chat Interface
 ![pc-interface-image](pcview.png)
-![Chat Interface](mobileview.png){: style="width: auto; height: 500px;"}
+![Chat Interface](mobileview.png)
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
 
