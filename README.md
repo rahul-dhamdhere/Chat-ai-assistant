@@ -79,8 +79,8 @@ Open your web browser and navigate to http://localhost:5000.
 Type your message in the input box and press "Send".
 The AI will respond based on your input.
 ## Chat Interface
-![pc-interface-image](pcview.png)
-![Chat Interface](mobileview.png)
+![pc-interface-image](/images/pcview.png)
+![Chat Interface](/images/mobileview.png)
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
 
