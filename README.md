@@ -1,6 +1,6 @@
 # AI Chat Assistant with Mistral 7B
 
-![AI Chat Assistant](images/chat_assistant.png)
+
 
 ## Project Overview
 
@@ -31,9 +31,9 @@ To use the Mistral 7B model, you need to download it locally. Follow these steps
 2. **Pull the Mistral Model**:
    ```bash
    ollama pull mistral
-### Download Mistral Model
+## Download Mistral Model
 
-### Installation
+## Installation
 **Clone the Repository:**
 
 bash
@@ -74,25 +74,26 @@ Copy code
 python app.py
 The application will be accessible at http://localhost:5000 in your web browser.
 
-### Usage
+## Usage
 Open your web browser and navigate to http://localhost:5000.
 Type your message in the input box and press "Send".
 The AI will respond based on your input.
-### Chat Interface
+## Chat Interface
 ![pc-interface-image](pcview.png)
-![mobile-interface-image](mobileview.png)
-### Contributing
+![Chat Interface](mobileview.png){: style="width: auto; height: 500px;"}
+## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
 
-### License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 Ollama for providing the Mistral model.
 Flask for the web framework.
 SQLite for lightweight database storage.
 Contact
 For any questions or feedback, feel free to reach out:
 
-Email: your.email@example.com
-GitHub: yourusername
+Email: rahulrdhamdhere@gmail.com
+GitHub: rahul-dhamdhere
+linkedin:[rahulrdhamdhere](https://www.linkedin.com/in/rahulrdhamdhere/)
