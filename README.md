@@ -4,13 +4,12 @@
 
 ## Project Overview
 
-This project is an AI Chat Assistant built using Flask and the Mistral 7B model from Ollama. The application allows users to interact with an AI model that generates responses based on user input. The chat history is stored for future reference, making it easy to track conversations.
+ This custom AI chat assistant is a sophisticated conversational agent designed to provide seamless, interactive, and engaging interactions. It leverages the power of Mistral, a versatile large language model, as its base for understanding and responding to user queries effectively. The assistant exhibits a high level of context awareness, enabling it to maintain conversations with coherence and relevance over multiple exchanges. It's equipped to handle a wide range of topics, making it an ideal tool for various applications such as customer service, education, entertainment, and more. The assistant has been finely-tuned for user experience, ensuring that responses are both informative and friendly. This custom AI chat assistant is designed to cater to the unique needs of its users, learning and adapting over time to deliver personalized interactions that feel intuitive and natural.
 
 ## Features
 
 - Interactive chat interface
 - AI responses generated using the Mistral 7B model
-- Chat history storage (using SQLite or JSON)
 - Responsive design for mobile and desktop
 - Easy setup and deployment
 
