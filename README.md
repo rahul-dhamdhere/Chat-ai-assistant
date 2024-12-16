@@ -95,6 +95,6 @@ SQLite for lightweight database storage.
 ## Contact
 ### For any questions or feedback, feel free to reach out:
 
-Email: rahulrdhamdhere@gmail.com
-GitHub: rahul-dhamdhere
-linkedin:[rahulrdhamdhere](https://www.linkedin.com/in/rahulrdhamdhere/)
+##### Email: rahulrdhamdhere@gmail.com
+##### GitHub: rahul-dhamdhere
+##### linkedin:[rahulrdhamdhere](https://www.linkedin.com/in/rahulrdhamdhere/)
